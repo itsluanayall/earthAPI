@@ -8,7 +8,7 @@ The data used for this exercise is an image from ESA's Sentinel 2 satellite `S2L
 
 To be able to use this program you can run:
 
-````
+```
 make build
 ```
 
@@ -16,7 +16,7 @@ This will create the virtual environment and install the required packages.
 
 Then finally:
 
-````
+```
 make run
 ```
 
