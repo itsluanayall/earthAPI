@@ -4,5 +4,4 @@ uvicorn[standard]
 rasterio
 numpy
 matplotlib
-Pillow
 black
